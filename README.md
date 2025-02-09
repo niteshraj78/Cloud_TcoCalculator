@@ -16,11 +16,6 @@ A brief description of what this project does and who it's for
 Cloud Total Cost of Ownership (TCO) is a comprehensive analysis that evaluates the overall expenses associated with adopting and operating cloud-based services or infrastructure over a specified period.
 
 
-## Group Members
-
-- Rumman Shaikh
-- Abraham Ahmed
-- Mohit Lalwani
 
 ## Project Overview
 
